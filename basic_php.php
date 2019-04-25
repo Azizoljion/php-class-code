@@ -28,7 +28,7 @@ $data8 = 'Or you can do it like \'this\' if you want';
 
 $data9 = $basic[3].$data3[2].$test[1].$data6[3];
 
-$name = "Robin";
+$name = "Azizol";
 $data10 = strlen($name);
 
 function code() {
